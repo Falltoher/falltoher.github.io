@@ -6,7 +6,7 @@
   <link href="https://falltoher.github.io/atom.xml" rel="self"/>
   
   <link href="https://falltoher.github.io/"/>
-  <updated>2023-04-11T09:17:02.925Z</updated>
+  <updated>2023-05-16T02:14:02.186Z</updated>
   <id>https://falltoher.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>jQuery</title>
-    <link href="https://falltoher.github.io/post/3bf3e06d.html"/>
-    <id>https://falltoher.github.io/post/3bf3e06d.html</id>
-    <published>2023-04-11T09:17:02.000Z</published>
-    <updated>2023-04-11T09:17:02.925Z</updated>
+    <title>Linux定制篇</title>
+    <link href="https://falltoher.github.io/post/152f43aa.html"/>
+    <id>https://falltoher.github.io/post/152f43aa.html</id>
+    <published>2023-05-07T03:23:05.000Z</published>
+    <updated>2023-05-16T02:14:02.186Z</updated>
     
     
       
@@ -31,15 +31,19 @@
     
     
     
+    <category term="Linux" scheme="https://falltoher.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://falltoher.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
-    <title>Redis</title>
-    <link href="https://falltoher.github.io/post/bae4ff13.html"/>
-    <id>https://falltoher.github.io/post/bae4ff13.html</id>
-    <published>2023-04-11T09:16:05.000Z</published>
-    <updated>2023-04-11T09:16:05.185Z</updated>
+    <title>Linux高级篇</title>
+    <link href="https://falltoher.github.io/post/52e8d5e4.html"/>
+    <id>https://falltoher.github.io/post/52e8d5e4.html</id>
+    <published>2023-05-07T03:22:36.000Z</published>
+    <updated>2023-05-07T03:25:52.458Z</updated>
     
     
       
@@ -49,15 +53,19 @@
     
     
     
+    <category term="Linux" scheme="https://falltoher.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://falltoher.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
-    <title>MyBatisPlus</title>
-    <link href="https://falltoher.github.io/post/8086094.html"/>
-    <id>https://falltoher.github.io/post/8086094.html</id>
-    <published>2023-04-11T09:15:34.000Z</published>
-    <updated>2023-04-11T09:15:34.679Z</updated>
+    <title>Linux实操篇</title>
+    <link href="https://falltoher.github.io/post/57eecc24.html"/>
+    <id>https://falltoher.github.io/post/57eecc24.html</id>
+    <published>2023-05-07T03:21:14.000Z</published>
+    <updated>2023-05-09T09:59:46.264Z</updated>
     
     
       
@@ -67,15 +75,19 @@
     
     
     
+    <category term="Linux" scheme="https://falltoher.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://falltoher.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
-    <title>SpringMVC</title>
-    <link href="https://falltoher.github.io/post/ae0f95e0.html"/>
-    <id>https://falltoher.github.io/post/ae0f95e0.html</id>
-    <published>2023-04-11T09:13:46.000Z</published>
-    <updated>2023-04-11T09:13:46.137Z</updated>
+    <title>Linux基础篇</title>
+    <link href="https://falltoher.github.io/post/c7ac62d6.html"/>
+    <id>https://falltoher.github.io/post/c7ac62d6.html</id>
+    <published>2023-05-07T03:20:56.000Z</published>
+    <updated>2023-05-07T07:25:09.978Z</updated>
     
     
       
@@ -85,95 +97,19 @@
     
     
     
+    <category term="Linux" scheme="https://falltoher.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://falltoher.github.io/tags/Linux/"/>
     
   </entry>
   
   <entry>
-    <title>Spring</title>
-    <link href="https://falltoher.github.io/post/6c92115f.html"/>
-    <id>https://falltoher.github.io/post/6c92115f.html</id>
-    <published>2023-04-11T09:13:19.000Z</published>
-    <updated>2023-04-11T09:13:19.350Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Git</title>
-    <link href="https://falltoher.github.io/post/69c3279c.html"/>
-    <id>https://falltoher.github.io/post/69c3279c.html</id>
-    <published>2023-04-11T09:11:49.000Z</published>
-    <updated>2023-04-11T09:11:49.246Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>蓝桥杯</title>
-    <link href="https://falltoher.github.io/post/90f1d201.html"/>
-    <id>https://falltoher.github.io/post/90f1d201.html</id>
-    <published>2023-04-05T07:13:56.000Z</published>
-    <updated>2023-04-05T11:00:18.179Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="蓝桥杯" scheme="https://falltoher.github.io/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/"/>
-    
-    
-    <category term="蓝桥杯" scheme="https://falltoher.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝桥杯真题</title>
-    <link href="https://falltoher.github.io/post/7420a9e6.html"/>
-    <id>https://falltoher.github.io/post/7420a9e6.html</id>
-    <published>2023-04-05T07:13:08.000Z</published>
-    <updated>2023-04-07T05:53:36.964Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="蓝桥杯" scheme="https://falltoher.github.io/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF/"/>
-    
-    
-    <category term="蓝桥杯" scheme="https://falltoher.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>微信小程序</title>
-    <link href="https://falltoher.github.io/post/4618cb0a.html"/>
-    <id>https://falltoher.github.io/post/4618cb0a.html</id>
-    <published>2023-04-04T08:17:00.000Z</published>
-    <updated>2023-04-04T09:08:30.805Z</updated>
+    <title>axios、fetch</title>
+    <link href="https://falltoher.github.io/post/28622150.html"/>
+    <id>https://falltoher.github.io/post/28622150.html</id>
+    <published>2023-05-04T10:18:39.000Z</published>
+    <updated>2023-05-10T02:13:35.860Z</updated>
     
     
       
@@ -191,51 +127,11 @@
   </entry>
   
   <entry>
-    <title>JavaWeb</title>
-    <link href="https://falltoher.github.io/post/99720b1c.html"/>
-    <id>https://falltoher.github.io/post/99720b1c.html</id>
-    <published>2023-04-02T11:36:01.000Z</published>
-    <updated>2023-04-02T11:58:06.935Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="后端" scheme="https://falltoher.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-    <category term="后端" scheme="https://falltoher.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Linux</title>
-    <link href="https://falltoher.github.io/post/53d0684b.html"/>
-    <id>https://falltoher.github.io/post/53d0684b.html</id>
-    <published>2023-04-02T11:33:04.000Z</published>
-    <updated>2023-04-02T11:33:44.016Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>React</title>
-    <link href="https://falltoher.github.io/post/d8a440d1.html"/>
-    <id>https://falltoher.github.io/post/d8a440d1.html</id>
-    <published>2023-04-02T11:32:12.000Z</published>
-    <updated>2023-04-02T11:35:42.527Z</updated>
+    <title>Ajax</title>
+    <link href="https://falltoher.github.io/post/65940d5a.html"/>
+    <id>https://falltoher.github.io/post/65940d5a.html</id>
+    <published>2023-04-20T14:36:55.000Z</published>
+    <updated>2023-04-21T12:36:20.961Z</updated>
     
     
       
@@ -253,11 +149,11 @@
   </entry>
   
   <entry>
-    <title>Vue</title>
-    <link href="https://falltoher.github.io/post/f8e09374.html"/>
-    <id>https://falltoher.github.io/post/f8e09374.html</id>
-    <published>2023-04-02T11:31:39.000Z</published>
-    <updated>2023-04-02T11:35:42.542Z</updated>
+    <title>node.js</title>
+    <link href="https://falltoher.github.io/post/bbc04bb4.html"/>
+    <id>https://falltoher.github.io/post/bbc04bb4.html</id>
+    <published>2023-04-19T15:03:39.000Z</published>
+    <updated>2023-04-21T12:48:24.712Z</updated>
     
     
       
@@ -267,19 +163,15 @@
     
     
     
-    <category term="前端" scheme="https://falltoher.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="前端" scheme="https://falltoher.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
-    <title>前端基础</title>
-    <link href="https://falltoher.github.io/post/3d3ed3e0.html"/>
-    <id>https://falltoher.github.io/post/3d3ed3e0.html</id>
-    <published>2023-04-02T11:31:14.000Z</published>
-    <updated>2023-04-02T11:38:04.461Z</updated>
+    <title>Django</title>
+    <link href="https://falltoher.github.io/post/c0eb71d0.html"/>
+    <id>https://falltoher.github.io/post/c0eb71d0.html</id>
+    <published>2023-04-15T14:54:37.000Z</published>
+    <updated>2023-04-16T01:39:42.193Z</updated>
     
     
       
@@ -289,19 +181,15 @@
     
     
     
-    <category term="前端" scheme="https://falltoher.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="前端" scheme="https://falltoher.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
-    <title>TypeScript</title>
-    <link href="https://falltoher.github.io/post/d044eab7.html"/>
-    <id>https://falltoher.github.io/post/d044eab7.html</id>
-    <published>2023-04-02T11:30:34.000Z</published>
-    <updated>2023-04-02T11:35:42.535Z</updated>
+    <title>查找</title>
+    <link href="https://falltoher.github.io/post/33cb1151.html"/>
+    <id>https://falltoher.github.io/post/33cb1151.html</id>
+    <published>2023-04-14T11:52:19.000Z</published>
+    <updated>2023-04-19T10:10:01.503Z</updated>
     
     
       
@@ -311,19 +199,19 @@
     
     
     
-    <category term="前端" scheme="https://falltoher.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="数据结构" scheme="https://falltoher.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="前端" scheme="https://falltoher.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="数据结构" scheme="https://falltoher.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
   <entry>
-    <title>MyBatis</title>
-    <link href="https://falltoher.github.io/post/1bff3c65.html"/>
-    <id>https://falltoher.github.io/post/1bff3c65.html</id>
-    <published>2023-04-02T11:29:45.000Z</published>
-    <updated>2023-04-02T11:35:42.549Z</updated>
+    <title>排序</title>
+    <link href="https://falltoher.github.io/post/a444b428.html"/>
+    <id>https://falltoher.github.io/post/a444b428.html</id>
+    <published>2023-04-14T11:52:05.000Z</published>
+    <updated>2023-04-19T10:03:08.336Z</updated>
     
     
       
@@ -333,19 +221,129 @@
     
     
     
-    <category term="后端" scheme="https://falltoher.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    <category term="数据结构" scheme="https://falltoher.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="后端" scheme="https://falltoher.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="数据结构" scheme="https://falltoher.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
   <entry>
-    <title>操作系统概述</title>
-    <link href="https://falltoher.github.io/post/2ba40472.html"/>
-    <id>https://falltoher.github.io/post/2ba40472.html</id>
-    <published>2023-03-22T11:43:02.000Z</published>
-    <updated>2023-03-22T11:44:54.226Z</updated>
+    <title>图</title>
+    <link href="https://falltoher.github.io/post/ee040603.html"/>
+    <id>https://falltoher.github.io/post/ee040603.html</id>
+    <published>2023-04-14T11:51:51.000Z</published>
+    <updated>2023-04-16T02:54:11.921Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树</title>
+    <link href="https://falltoher.github.io/post/7b216a3b.html"/>
+    <id>https://falltoher.github.io/post/7b216a3b.html</id>
+    <published>2023-04-14T11:51:40.000Z</published>
+    <updated>2023-04-16T02:48:25.977Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>串、数组、广义表</title>
+    <link href="https://falltoher.github.io/post/de9add19.html"/>
+    <id>https://falltoher.github.io/post/de9add19.html</id>
+    <published>2023-04-14T11:51:15.000Z</published>
+    <updated>2023-04-16T01:43:20.156Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>栈、队列</title>
+    <link href="https://falltoher.github.io/post/a1359bee.html"/>
+    <id>https://falltoher.github.io/post/a1359bee.html</id>
+    <published>2023-04-14T11:50:33.000Z</published>
+    <updated>2023-04-16T01:43:20.148Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性表</title>
+    <link href="https://falltoher.github.io/post/40f24371.html"/>
+    <id>https://falltoher.github.io/post/40f24371.html</id>
+    <published>2023-04-14T11:50:00.000Z</published>
+    <updated>2023-04-19T10:38:09.010Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="https://falltoher.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内存管理</title>
+    <link href="https://falltoher.github.io/post/41e39f2b.html"/>
+    <id>https://falltoher.github.io/post/41e39f2b.html</id>
+    <published>2023-04-14T09:00:50.000Z</published>
+    <updated>2023-04-14T09:02:59.720Z</updated>
     
     
       
@@ -363,11 +361,11 @@
   </entry>
   
   <entry>
-    <title>网络安全</title>
-    <link href="https://falltoher.github.io/post/2812c128.html"/>
-    <id>https://falltoher.github.io/post/2812c128.html</id>
-    <published>2023-03-22T03:01:53.000Z</published>
-    <updated>2023-04-02T11:26:20.306Z</updated>
+    <title>进程管理</title>
+    <link href="https://falltoher.github.io/post/852cfab6.html"/>
+    <id>https://falltoher.github.io/post/852cfab6.html</id>
+    <published>2023-04-14T09:00:33.000Z</published>
+    <updated>2023-05-05T02:17:11.143Z</updated>
     
     
       
@@ -377,19 +375,19 @@
     
     
     
-    <category term="网络安全" scheme="https://falltoher.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    <category term="操作系统" scheme="https://falltoher.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="网络安全" scheme="https://falltoher.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    <category term="操作系统" scheme="https://falltoher.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
-    <title>JUC</title>
-    <link href="https://falltoher.github.io/post/aa55683f.html"/>
-    <id>https://falltoher.github.io/post/aa55683f.html</id>
-    <published>2023-03-22T03:01:33.000Z</published>
-    <updated>2023-03-22T11:42:06.344Z</updated>
+    <title>Spring6</title>
+    <link href="https://falltoher.github.io/post/e600a460.html"/>
+    <id>https://falltoher.github.io/post/e600a460.html</id>
+    <published>2023-04-11T10:05:54.000Z</published>
+    <updated>2023-04-14T11:09:10.104Z</updated>
     
     
       
@@ -407,11 +405,33 @@
   </entry>
   
   <entry>
-    <title>JVM</title>
-    <link href="https://falltoher.github.io/post/66c016fb.html"/>
-    <id>https://falltoher.github.io/post/66c016fb.html</id>
-    <published>2023-03-22T03:01:00.000Z</published>
-    <updated>2023-03-23T08:30:17.493Z</updated>
+    <title>jQuery</title>
+    <link href="https://falltoher.github.io/post/3bf3e06d.html"/>
+    <id>https://falltoher.github.io/post/3bf3e06d.html</id>
+    <published>2023-04-11T09:17:02.000Z</published>
+    <updated>2023-04-14T00:16:59.231Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="前端" scheme="https://falltoher.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://falltoher.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis</title>
+    <link href="https://falltoher.github.io/post/bae4ff13.html"/>
+    <id>https://falltoher.github.io/post/bae4ff13.html</id>
+    <published>2023-04-11T09:16:05.000Z</published>
+    <updated>2023-05-04T00:47:30.533Z</updated>
     
     
       
